@@ -42,7 +42,7 @@ $dob = $_SESSION['dob'];
 $color = $_SESSION['color'];
 $gender = $_SESSION['gender'];
 $department = $_SESSION['department'];
-    echo "Welcome ", $fname , " ", $_SESSION['sname'] ,". ", "I am Oluwafemi by name.", "<br>", "<br>", "Here are your details you entered."; 
+    echo "Welcome ", $fname , " ", $_SESSION['sname'] ,". ", "Here are your details you entered."; 
 echo "<br>";
 echo "<br>";
 ?>
